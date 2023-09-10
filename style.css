@@ -76,7 +76,8 @@ ul {
 .content .img-card {
     height: 200px;
     width: 400px;
-    background-color: #949bdd;
+    background-color: #E5E7EB;
+    border-radius: 5px;
 }
 
 .content button {
@@ -84,7 +85,8 @@ ul {
     padding: 7px 25px;
     background-color: #3882F6;
     border-color: #3882F6;
-    color: #E5E7EB;
+    color: #FFFFFF;
     font-size: 15px;
     margin: 5px 0px;
+    border: none;
 }
