@@ -159,24 +159,30 @@ ul {
     margin-left: auto;
 }
 
+.banner-outer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 225px;
+}
+
 .banner-container {
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #3882F6;
-    margin: 50px 225px;
     border-radius: 7px;
 }
 
 .banner {
     background-color: #3882F6;
-    padding: 40px 10px;
+    padding: 40px 50px;
     border-radius: 10px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
-    flex: 1;
     flex-wrap: wrap;
+    gap: 20px 75px;
 }
 
 .banner-title {
@@ -196,6 +202,6 @@ ul {
     background-color: #3882F6;
     color: #FFFFFF;
     font-size: 15px;
-    margin: 5px 0px;
     border: 2px solid #FFFFFF;
+    white-space: nowrap;
 }
