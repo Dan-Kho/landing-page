@@ -179,11 +179,14 @@ ul {
 }
 
 .banner-title {
-
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 500;
 }
 
 .banner .text {
-
+    color: #FFFFFF;
+    font-size: 16px;
 }
 
 .banner button {
