@@ -205,3 +205,10 @@ ul {
     border: 2px solid #FFFFFF;
     white-space: nowrap;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 25px 0px;
+    text-align: center;
+}
