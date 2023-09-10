@@ -37,24 +37,35 @@ ul {
     gap: 25px;
 }
 
-.content {
+.content-container {
     background-color: #1F2937;
+    padding: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.content {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     flex-wrap: wrap;
+    gap: 50px;
+}
+
+.content-left {
+    flex: 1;
 }
 
 .content-title {
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
-    flex: 1;
 }
 
 .content .text {
     color: #E5E7EB;
-    flex: 1;
 }
 
 .content .img-card {
