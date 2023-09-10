@@ -84,7 +84,6 @@ ul {
     border-radius: 9px;
     padding: 7px 25px;
     background-color: #3882F6;
-    border-color: #3882F6;
     color: #FFFFFF;
     font-size: 15px;
     margin: 5px 0px;
@@ -187,5 +186,11 @@ ul {
 }
 
 .banner button {
-
+    border-radius: 9px;
+    padding: 7px 35px;
+    background-color: #3882F6;
+    color: #FFFFFF;
+    font-size: 15px;
+    margin: 5px 0px;
+    border: 2px solid #FFFFFF;
 }
