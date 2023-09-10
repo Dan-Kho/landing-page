@@ -161,11 +161,21 @@ ul {
 }
 
 .banner-container {
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    margin: 50px 225px;
+    border-radius: 7px;
 }
 
 .banner {
-
+    background-color: #3882F6;
+    padding: 40px 10px;
+    flex: 1;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 .banner-title {
@@ -177,5 +187,5 @@ ul {
 }
 
 .banner button {
-    
+
 }
