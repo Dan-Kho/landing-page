@@ -1,1 +1,2 @@
-# landing-page
+# Landing Page
+Creating a landing page that shows the use of Flexbox through application. The landing page will include a header, footer, sign up, and three other separate sections. A more modern html design using basic css styling.
