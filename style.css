@@ -96,7 +96,7 @@ ul {
     flex-direction: column;
     align-items: center;
     background-color: #FFFFFF;
-    padding: 20px 100px;
+    padding: 20px 100px 75px 100px;
 }
 
 .info-title {
