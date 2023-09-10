@@ -171,10 +171,11 @@ ul {
 .banner {
     background-color: #3882F6;
     padding: 40px 10px;
-    flex: 1;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    flex: 1;
+    flex-wrap: wrap;
 }
 
 .banner-title {
