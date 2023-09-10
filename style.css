@@ -10,7 +10,7 @@ body {
 
 a {
     text-decoration: none;
-    color: black; /* placeholder for #E5E7EB */
+    color: #E5E7EB;
 }
 
 ul {
@@ -21,13 +21,14 @@ ul {
 
 .header {
     background-color: #1F2937;
+    padding: 15px;
     display: flex;
     justify-content: space-around;
-
 }
 
 .logo {
     font-size: 24px;
+    font-weight: 700;
     color: #F9FAF8;
 }
 
