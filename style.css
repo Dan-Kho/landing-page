@@ -39,14 +39,26 @@ ul {
 
 .content {
     background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .content-title {
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
+    flex: 1;
 }
 
 .content .text {
     color: #E5E7EB;
+    flex: 1;
+}
+
+.content .img-card {
+    height: 200px;
+    width: 400px;
+    background-color: #949bdd;
 }
